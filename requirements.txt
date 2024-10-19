@@ -1,0 +1,4 @@
+aiohttp==3.10.8
+colorama==0.4.6
+fake-useragent==1.5.1
+faker==27.0.0
