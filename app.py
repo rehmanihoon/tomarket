@@ -14,7 +14,7 @@ class Tomarket:
     def __init__(self) -> None:
         self.faker = Faker()
         self.headers = {
-        ███████    'Accept': 'application/json, text/plain, */*',
+        'Accept': 'application/json, text/plain, */*',
             'Accept-Language': 'en-GB,en-US;q=0.9,en;q=0.8',
             'Cache-Control': 'no-cache',
             'Host': 'api-web.tomarket.ai',
